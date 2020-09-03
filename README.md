@@ -8,3 +8,5 @@ This project gives a detailed explanation on how to build a Digital transmitter 
 
 **text_simulation.py** is the generated python code for the flow graph generated.
 
+From the whole analysis, text was able to be transmitted and received by the receiver with little errors in the presence of noise up to 0.71 in amplitude. The best pulse shape in the whole analysis was proven to be the rrcf.
+
